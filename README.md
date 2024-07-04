@@ -7,22 +7,18 @@
 <a href="https://twitter.com/" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://gmail.com/" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%fffff?style=for-the-badge&logo=gmail&color=%fffff style="margin-bottom: 5px;" />
-</a>
+<a href="mailto:fabriciobecerra18@gmail..com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 <br />
 </div>
 <!--Cabecera-->
-
 <!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 </div>
 <!--- snake -->
 <hr>
 <pre>
-📚 Soy un técnico egresado del Instituto CIBERTEC
+📚 Soy un egresado del Instituto CIBERTEC 🇵🇪
 💻 Me gusta desarrollar aplicaciones FULL STACK y aplicaciones moviles en FLUTTER
 📝 Tengo un gran interés por el DESARROLLO MOVIL y DATA SCIENCE
 🔭 Actualmente estoy desarrollando una tienda virtual 
@@ -33,10 +29,16 @@
 </pre>
 <hr>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <!--Stack-->
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-### 🛠 &nbsp;Tech Stack
 
+### 👨‍💻 &nbsp;TECH STACK
 
 ### 🛠 &nbsp;FRONT END
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -83,3 +85,5 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/intellij-%25fffff?style=for-the-badge&logo=intellij&color=rgba(3%2C%20208%2C%20255%2C%200.8))&nbsp;
 <!--Stack-->
+
+
