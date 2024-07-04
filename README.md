@@ -1,5 +1,5 @@
 <!--h1 without bottom border-->
-<h1 align="center">Hola, soy Fabricio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Fabricio</h1>
 
 
 
