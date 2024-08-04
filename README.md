@@ -24,7 +24,6 @@
 🔭 Actualmente estoy desarrollando una tienda virtual 
 🌟 Principales Lenguajes: Java, C# 
 🚩 Interesado en el desarrollo de aplicaciones Full Stack
-🤔 Actualmente estoy en busca de una oportunidad de: <b>Practicante</b> o una <b>oportunidad de Trabajo</b>,
   este es <a href="https://linkedin.com/in/fabriciobecerraazaña" target="_blank">mi perfil en LinkedIn</a>
 </pre>
 <hr>
